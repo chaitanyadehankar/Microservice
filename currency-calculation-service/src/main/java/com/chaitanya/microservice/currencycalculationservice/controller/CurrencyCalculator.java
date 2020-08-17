@@ -1,4 +1,4 @@
-package com.chaitanya.microservice.currencycalculationservice.controler;
+package com.chaitanya.microservice.currencycalculationservice.controller;
 
 import java.math.BigDecimal;
 import java.util.HashMap;
